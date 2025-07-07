@@ -203,6 +203,13 @@ h6
   display: flex;
   justify-content: center;
   align-items: center;
+
+}
+
+
+.container .contentBox .leftSide ul li a
+{
+  text-decoration: none;
 }
 
 .container .contentBox ul.interest li .icon ion-icon
